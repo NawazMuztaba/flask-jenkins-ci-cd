@@ -88,6 +88,9 @@ GitHub: https://github.com/NawazMuztaba
 ✔ Ready for resume and LinkedIn
 <img width="2453" height="1338" alt="image" src="https://github.com/user-attachments/assets/0bdd4318-fa1c-4f1b-b189-a339080c600f" />
 <img width="2447" height="500" alt="image" src="https://github.com/user-attachments/assets/c8a3c756-b048-48af-b399-fc07fd3a2e22" />
-<img width="2447" height="1256" alt="image" src="https://github.com/user-attachments/assets/aebad879-81f1-454d-9168-b439d0e5fd08" />
+<img width="2445" height="869" alt="image" src="https://github.com/user-attachments/assets/90f0d14d-33c5-45d3-a621-073cb61e4436" />
+<img width="2452" height="1398" alt="image" src="https://github.com/user-attachments/assets/f7ecb5b9-3fc8-49b6-a709-4e2ad3e576dc" />
+
+
 
 
