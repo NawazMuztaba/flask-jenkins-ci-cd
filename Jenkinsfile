@@ -19,7 +19,7 @@ pipeline {
 
         stage('Run Flask App') {
             steps {
-                sh 'docker run -d -p 5000:5000 --name flask-app flask-devops'
+                sh 'docker run -d -p 5001:5000 --name flask-app flask-devops'
             }
         }
     }
